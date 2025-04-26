@@ -6,6 +6,7 @@
 
 
 Tackling issues with algorithms offers significant benefits but also comes with challenges. Here's a balanced look at the pros and cons of applying an algorithmic approach:
+
 Pros
 
     Efficiency: Algorithms can process vast amounts of data far faster and more accurately than humans, delivering actionable results in seconds rather than hours or days.
