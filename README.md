@@ -9,19 +9,26 @@ Tackling issues with algorithms offers significant benefits but also comes with 
 
 Pros
 
-    Efficiency: Algorithms can process vast amounts of data far faster and more accurately than humans, delivering actionable results in seconds rather than hours or days.
+    Efficiency: Algorithms can process vast amounts of data far faster and 
+    more accurately than humans, delivering actionable results in seconds rather than hours or days.
 
-    Scalability: They work seamlessly on both small-scale problems and large, complex challenges, making them highly adaptable across domains.
+    Scalability: They work seamlessly on both small-scale problems and 
+    large, complex challenges, making them highly adaptable across domains.
 
-    Objectivity: When properly designed, algorithms eliminate the subjective biases often found in human decision-making.
+    Objectivity: When properly designed, algorithms eliminate the 
+    subjective biases often found in human decision-making.
 
-    Optimization: Algorithms excel at finding the most efficient solutions, saving time, resources, and energy.
+    Optimization: Algorithms excel at finding the most efficient 
+    solutions, saving time, resources, and energy.
 
-    Repeatability: Once programmed, algorithms can perform tasks consistently without fatigue or loss of quality.
+    Repeatability: Once programmed, algorithms can perform tasks 
+    consistently without fatigue or loss of quality.
 
-    Innovative Potential: Advanced techniques, such as machine learning or artificial intelligence, allow algorithms to uncover patterns and solutions previously unseen.
+    Innovative Potential: Advanced techniques, such as machine 
+    learning or artificial intelligence, allow algorithms to uncover patterns and solutions previously unseen.
 
-    Automation: They can take over repetitive tasks, enabling teams to focus on creative and strategic work.
+    Automation: They can take over repetitive tasks, enabling 
+    teams to focus on creative and strategic work.
 
 Cons
 
